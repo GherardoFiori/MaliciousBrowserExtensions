@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--f3339abe-a78c-56c9-81b5-b9942831c237",
+  "id": "bundle--e3a298d1-060b-529e-9686-1f5fd47e8310",
   "objects": [
     {
       "type": "identity",
@@ -574,7 +574,7 @@
       "pattern": "[file:hashes.'SHA-256' = '04755ffcff7562011929484a59aaf54e637e67b0f6520cb419052f2eed28934f']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-28T00:00:00.000Z",
+      "valid_from": "2026-04-24T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -2446,7 +2446,7 @@
       "pattern": "[file:hashes.'SHA-256' = '1a09fad3ae7f94aa459d92e5131ba3cf1bf23ae1ad0eb0db5276cc1f885b06ee']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-23T00:00:00.000Z",
+      "valid_from": "2026-04-22T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -4346,7 +4346,7 @@
       "pattern": "[file:hashes.'SHA-256' = '2b99f49a09443503ccc5e3fd2660436f76b49f0419e8b800dca611d186355827']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-23T00:00:00.000Z",
+      "valid_from": "2026-04-22T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -7955,7 +7955,7 @@
       "pattern": "[file:hashes.'SHA-256' = '57b49adc0c5bbe0b5fe677ead5dae5b35e596a179c679431ff1e6a8632706a41']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-23T00:00:00.000Z",
+      "valid_from": "2026-04-22T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -10094,7 +10094,7 @@
       "pattern": "[file:hashes.'SHA-256' = '6d45ec5bd50d96335debac110ad4529e219d8b26b5affc5d31823241559eaf0c']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-23T00:00:00.000Z",
+      "valid_from": "2026-04-22T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -10121,7 +10121,7 @@
       "pattern": "[file:hashes.'SHA-256' = '6e2fa8bb76d31b45b0979df981b9e97d0f1545d9eb3859da5163005f6e618aa8']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-05-12T00:00:00.000Z",
+      "valid_from": "2026-05-07T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -11940,7 +11940,7 @@
       "pattern": "[file:hashes.'SHA-256' = '7d215238bb5daa354ac7f2a9d7ebb7dfd8268fa773337818b04a0908a18a493a']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-23T00:00:00.000Z",
+      "valid_from": "2026-04-22T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -16727,7 +16727,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'ade7b253bdd8cf8db8dffe1f0ad11789d18aa7ca895a28d82d85fa6b562e5596']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-05-12T00:00:00.000Z",
+      "valid_from": "2026-05-07T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -18191,7 +18191,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'b9887ee2e10861f55f33670f88d30ec54b5de5b19c72b6b3da45a76c393e801b']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-15T00:00:00.000Z",
+      "valid_from": "2026-04-14T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -18218,7 +18218,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-06-16T00:00:00.000Z",
+      "valid_from": "2026-06-15T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -18611,7 +18611,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'bcf17f91b86728de5fd2a52804f856269dd956fbfa8ed69b8269fee76ecc04ee']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-06-16T00:00:00.000Z",
+      "valid_from": "2026-06-15T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -20703,7 +20703,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'd227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-05-12T00:00:00.000Z",
+      "valid_from": "2026-05-07T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
@@ -22722,6 +22722,33 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--bf9c8065-4d6b-5b3f-a05d-20e9f1ed78e0",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension pnhhdhhcadcjfckjhpmjneldiegbojfb",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): pnhhdhhcadcjfckjhpmjneldiegbojfb",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = 'eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-11T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "pnhhdhhcadcjfckjhpmjneldiegbojfb"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--9de1c02a-68ab-571e-8afb-5132a344e366",
       "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
       "created": "2026-08-17T00:00:00.000Z",
@@ -23655,7 +23682,7 @@
       "pattern": "[file:hashes.'SHA-256' = 'f4b638b61090e65d017a336aa5135ad9cdb321e7e90289f3fd2e949bd04c744d']",
       "pattern_type": "stix",
       "pattern_version": "2.1",
-      "valid_from": "2026-04-28T00:00:00.000Z",
+      "valid_from": "2026-04-24T00:00:00.000Z",
       "external_references": [
         {
           "source_name": "chrome-extension-id",
