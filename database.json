@@ -6897,13 +6897,6 @@
       "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "744eafa06e74235eee091aa827b88b18d953696198af251baf731af1def0dfd4"
-    },
-    {
-      "extension_id": "pnhhdhhcadcjfckjhpmjneldiegbojfb",
-      "source_url": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed",
-      "date_reported": "2026-09-11",
-      "date_added": "2026-09-12",
-      "crx_sha256": "eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda"
     }
   ]
 }
