@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--e3a298d1-060b-529e-9686-1f5fd47e8310",
+  "id": "bundle--355d6192-13c1-5aae-ba93-0b8a305076ec",
   "objects": [
     {
       "type": "identity",
@@ -2488,6 +2488,33 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--868da1e3-45f2-513a-a2ff-820e09a29e83",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension phcfjgnhnpfjhpghiacilpocpcdcgljm",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): phcfjgnhnpfjhpghiacilpocpcdcgljm",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '1aa148274b65a9f10a89b9d1ddebf9b49168e214e6980c0a39d3942a2cb73b1f']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-12T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "phcfjgnhnpfjhpghiacilpocpcdcgljm"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--0a71ccec-c435-5864-8dfa-44d4825c19f7",
       "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
       "created": "2026-04-16T00:00:00.000Z",
@@ -4773,6 +4800,33 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--95870675-a03f-5b06-8ed6-33284c8aa75f",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension obdcmkbifgehdkjacmndbapoiiabnjlo",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): obdcmkbifgehdkjacmndbapoiiabnjlo",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '2f93df70f5a1f92f328678427cbc6015dea8366ddad25537162fb5b5d6c09925']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-12T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "obdcmkbifgehdkjacmndbapoiiabnjlo"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--c288d826-f24e-583a-b4ad-70f6a746b271",
       "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
       "created": "2026-06-16T00:00:00.000Z",
@@ -5730,6 +5784,33 @@
         {
           "source_name": "MaliciousBrowserExtensions source",
           "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--73b8c922-02f1-5195-8f70-253d9f068e8a",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension ngnfdhfeccjahkpielcjbjebipckhoii",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): ngnfdhfeccjahkpielcjbjebipckhoii",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '3a11fb62e969687559eac24b9264ec97359cdfc0d24518d80e643e241d027296']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-12T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "ngnfdhfeccjahkpielcjbjebipckhoii"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt"
         }
       ]
     },
@@ -6880,6 +6961,33 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--04928fa8-9fb9-5283-bf02-626fd7f6b4aa",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension pnlahghdcgkecfkeeiekinacgmbdcabk",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): pnlahghdcgkecfkeeiekinacgmbdcabk",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '4a78feedc08844ea260d947ca0c5fdbdeddd425d7ba9ade88c28c594478a0f20']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-12T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "pnlahghdcgkecfkeeiekinacgmbdcabk"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--c60d2a97-0360-5ebe-a0a7-68e36717af70",
       "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
       "created": "2026-02-16T00:00:00.000Z",
@@ -7533,6 +7641,33 @@
         {
           "source_name": "chrome-extension-id",
           "external_id": "pajkjnmeojmbapicmbpliphjmcekeaac"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8580cef3-aa4b-5925-b79a-55243b40d22d",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-09-12T00:00:00.000Z",
+      "modified": "2026-09-12T00:00:00.000Z",
+      "name": "Malicious Chrome extension ooepolkedgpkhojiihdjoajnjohciajl",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): ooepolkedgpkhojiihdjoajnjohciajl",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '53547495fe1ba0a7b8bf5cad118bc1f9588d70607b5a633fe17f07443186abc2']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-09-12T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "ooepolkedgpkhojiihdjoajnjohciajl"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt"
         }
       ]
     },
@@ -14732,6 +14867,33 @@
         {
           "source_name": "MaliciousBrowserExtensions source",
           "url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dca06584-7274-52d6-86a4-dadbab3935fb",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-06-16T00:00:00.000Z",
+      "modified": "2026-06-16T00:00:00.000Z",
+      "name": "Malicious Chrome extension liimhladbmdgppodfomkkcppkfbkmjbm",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): liimhladbmdgppodfomkkcppkfbkmjbm",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = '9ba9b463afa8883b43cec46d622f4c6ff33300af784d3ecf64a6f1b36c63c643']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-15T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "liimhladbmdgppodfomkkcppkfbkmjbm"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html"
         }
       ]
     },
