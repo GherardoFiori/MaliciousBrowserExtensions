@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-08-21T11:22:11.670Z",
-  "total_samples": 987,
+  "last_updated": "2026-09-12T14:41:06.991Z",
+  "total_samples": 988,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1301,231 +1301,231 @@
     {
       "extension_id": "mdcfennpfgkngnibjbpnpaafcjnhcjno",
       "source_url": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-      "date_reported": "Tue, 14 Apr 2026 08:35:00 +0000",
+      "date_reported": "2026-04-14",
       "date_added": "2026-04-15",
       "crx_sha256": "b9887ee2e10861f55f33670f88d30ec54b5de5b19c72b6b3da45a76c393e801b"
     },
     {
       "extension_id": "dmaibhbbpmdihedidicfeigilkbobcog",
       "source_url": "",
-      "date_reported": "",
+      "date_reported": null,
       "date_added": "2026-04-16",
       "crx_sha256": "1ab0c026052f3d01a4c15ee2197dc3b81d426fac1d3b8c76ac250ecaca3c86fc"
     },
     {
       "extension_id": "dljlpildgknddpnahppkihgodokfjbnd",
       "source_url": "",
-      "date_reported": "",
+      "date_reported": null,
       "date_added": "2026-04-16",
       "crx_sha256": "0b204f06a8f99b037fc4453c6367fd601b62e89307d5ab94d359da0764502675"
     },
     {
       "extension_id": "ndajcmifndknmkckdcdefkpgcodciggk",
       "source_url": "",
-      "date_reported": "",
+      "date_reported": null,
       "date_added": "2026-04-16",
       "crx_sha256": "a15bde49870be78040a72b2a1ed6b53067a8b9896fc13600d774d070ad5a0ce9"
     },
     {
       "extension_id": "akebbllmckjphjiojeioooidhnddnplj",
       "source_url": "",
-      "date_reported": "",
+      "date_reported": null,
       "date_added": "2026-04-16",
       "crx_sha256": "40d521ab24b919ee208f73641257f8d576fb837d3e27f9f8afe7a47865b53541"
     },
     {
       "extension_id": "lnajjhohknhgemncbaomjjjpmpdigedg",
       "source_url": "",
-      "date_reported": "",
+      "date_reported": null,
       "date_added": "2026-04-16",
       "crx_sha256": "f151378378e776004d5f848087d6d84d2755923f197ef9faa8fa67e35c245c7f"
     },
     {
       "extension_id": "injnjbcogjhcjhnhcbmlahgikemedbko",
       "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_reported": "2026-04-22",
       "date_added": "2026-04-23",
       "crx_sha256": "1a09fad3ae7f94aa459d92e5131ba3cf1bf23ae1ad0eb0db5276cc1f885b06ee"
     },
     {
       "extension_id": "ehdkeonoccndeaggbnolijnmmeohkbpf",
       "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_reported": "2026-04-22",
       "date_added": "2026-04-23",
       "crx_sha256": "57b49adc0c5bbe0b5fe677ead5dae5b35e596a179c679431ff1e6a8632706a41"
     },
     {
       "extension_id": "pfpijacnpangmkfdpgodlbokpkhpkeka",
       "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_reported": "2026-04-22",
       "date_added": "2026-04-23",
       "crx_sha256": "7d215238bb5daa354ac7f2a9d7ebb7dfd8268fa773337818b04a0908a18a493a"
     },
     {
       "extension_id": "cfbgdmiobbicgjnaegnenlcgbdabkcli",
       "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_reported": "2026-04-22",
       "date_added": "2026-04-23",
       "crx_sha256": "6d45ec5bd50d96335debac110ad4529e219d8b26b5affc5d31823241559eaf0c"
     },
     {
       "extension_id": "mpalaahimeigibehbocnjipjfakekfia",
       "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_reported": "2026-04-22",
       "date_added": "2026-04-23",
       "crx_sha256": "2b99f49a09443503ccc5e3fd2660436f76b49f0419e8b800dca611d186355827"
     },
     {
       "extension_id": "kkhjihaeddnhknninbekkhaklnailngh",
       "source_url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "date_reported": "2026-04-27",
       "date_added": "2026-04-27",
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
     },
     {
       "extension_id": "ecocgofdjmiomgmgnchijbghkikolkkl",
       "source_url": "https://gbhackers.com/malicious-chrome-extension-targets-chatgpt-users/",
-      "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "date_reported": "2026-04-27",
       "date_added": "2026-04-27",
       "crx_sha256": "2e184fc56bb4a69fa0a76f774ad3d7cd6f5846f20ed74788f5e68eef73652aee"
     },
     {
       "extension_id": "kbifpojhlkdoidmndacedmkbjopeekgl",
       "source_url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "date_reported": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "date_reported": "2026-04-27",
       "date_added": "2026-04-28",
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
     },
     {
       "extension_id": "jacilgchggenbmgbfnehcegalhlgpnhf",
       "source_url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "date_reported": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "date_reported": "2026-04-27",
       "date_added": "2026-04-28",
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
     },
     {
       "extension_id": "nlfkaldinolmacagmiddfpnfaeclfibn",
       "source_url": "https://dti.domaintools.com/securitysnacks/the-ai-frame-campaign-continues",
-      "date_reported": "Thu, 24 Apr 2026 00:00:00 +0000",
+      "date_reported": "2026-04-24",
       "date_added": "2026-04-28",
       "crx_sha256": "04755ffcff7562011929484a59aaf54e637e67b0f6520cb419052f2eed28934f"
     },
     {
       "extension_id": "nmijijenojhiaohkfedfgchgbmjnfcpp",
       "source_url": "https://dti.domaintools.com/securitysnacks/the-ai-frame-campaign-continues",
-      "date_reported": "Thu, 24 Apr 2026 00:00:00 +0000",
+      "date_reported": "2026-04-24",
       "date_added": "2026-04-28",
       "crx_sha256": "f4b638b61090e65d017a336aa5135ad9cdb321e7e90289f3fd2e949bd04c744d"
     },
     {
       "extension_id": "fcoeoabgfenejglbffodgkkbkcdhcgfn",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-07",
       "crx_sha256": "3dc4d18e0efc5df9fef2d72ef24ecdf3b8d2186d93154418c1b41eb9e5dfefc1"
     },
     {
       "extension_id": "ceibjdigmfbbgcpkkdpmjokkokklodmc",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-12",
       "crx_sha256": "6e2fa8bb76d31b45b0979df981b9e97d0f1545d9eb3859da5163005f6e618aa8"
     },
     {
       "extension_id": "pcdgkgbadeggbnodegejccjffnoakcoh",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-12",
       "crx_sha256": "ade7b253bdd8cf8db8dffe1f0ad11789d18aa7ca895a28d82d85fa6b562e5596"
     },
     {
       "extension_id": "fpeabamapgecnidibdmjoepaiehokgda",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-12",
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
     },
     {
       "extension_id": "eebihieclccoidddmjcencomodomdoei",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-14",
       "crx_sha256": "6e2fa8bb76d31b45b0979df981b9e97d0f1545d9eb3859da5163005f6e618aa8"
     },
     {
       "extension_id": "iefpkdilnfhogjbkhgnliaomoldgkdlj",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-14",
       "crx_sha256": "ade7b253bdd8cf8db8dffe1f0ad11789d18aa7ca895a28d82d85fa6b562e5596"
     },
     {
       "extension_id": "jhhjbaicgmecddbaobeobkikgmfffaeg",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-14",
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
     },
     {
       "extension_id": "gogbiohkminacikoppmljeolgccpmlop",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-17",
       "crx_sha256": "ade7b253bdd8cf8db8dffe1f0ad11789d18aa7ca895a28d82d85fa6b562e5596"
     },
     {
       "extension_id": "hmkcidjcpomiegnklmplkimmbcbklglb",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-17",
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
     },
     {
       "extension_id": "dgeiaiglmhdhajbpfbmajaajdlfdinpi",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
-      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_reported": "2026-05-07",
       "date_added": "2026-05-17",
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
     },
     {
       "extension_id": "nonajfcfdpeheinkafjiefpdhfalffof",
       "source_url": "https://7ai.com/crxfiltrate",
-      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_reported": "2026-05-17",
       "date_added": "2026-05-17",
       "crx_sha256": "47dde4de0a2eac88b19452ef80ba3c1a2f5b0edfca8980dc1f2697277888bdb3"
     },
     {
       "extension_id": "cdiohdbijdajffgccjmbblbikpnnnkeg",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
-      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_reported": "2026-05-17",
       "date_added": "2026-05-17",
       "crx_sha256": "6030baa8c7010c8cf3300944cfa759e8671aa9df29cc534ef7d5e951844ebe08"
     },
     {
       "extension_id": "pfgpfmdiepmhhhkpnciogjhccppbcfhk",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
-      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_reported": "2026-05-17",
       "date_added": "2026-05-17",
       "crx_sha256": "65a9a885572be0ead88561b023de0c8fa4cc910761bcfe7e293d159193fc8875"
     },
     {
       "extension_id": "koecfhecfkmjkjplbmbclgacdclnnpei",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
-      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_reported": "2026-05-17",
       "date_added": "2026-05-17",
       "crx_sha256": "f812d2f91c8c2b96ddd52c986f77c52e6303d94ab38ddaa6f1b18451909ed99e"
     },
     {
       "extension_id": "mnpacdigbockiilmilhbedciadenfdnb",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-15",
       "crx_sha256": "ae59ef7886336d0daaf40866663e73790373a14dfd8e1073298a8e04027cc0b5"
     },
     {
       "extension_id": "iedplnnolciaofkakkjmcojnmklpfikg",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-15",
       "crx_sha256": "97c4b8037bdd6b3ac6e7c562dce3650ef5425b60de5e28e54ad7dc85c3650db9"
     },
@@ -1539,21 +1539,21 @@
     {
       "extension_id": "nomekamioepglinefhenifnbegjhfiai",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-15",
       "crx_sha256": "e3e9bd93f59c4d04644130294a2cf8592e8b1e75780b1aa9702035c56e220109"
     },
     {
       "extension_id": "jjngbcodoldjmpjpfbhfelaljbdlkekh",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-15",
       "crx_sha256": "a57e18a59fbd9e10c9282e3bed6aff6c2a2318e682df64d5515e8769ccf80890"
     },
     {
       "extension_id": "gfikbhpfjldbbikolkcimfgmejhdkjbe",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-15",
       "crx_sha256": "06de7e28f93e9800d7c35c3a7b4a1120d1b6ed62fdd83d20b50f3e2a83a9ddd0"
     },
@@ -1567,14 +1567,14 @@
     {
       "extension_id": "pkdloppfapenphihgbldhjjlfhgnkmcg",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-16",
       "crx_sha256": "8494c505f49677cf48eb0e121aab314d0918fefcb4f2f31537fc46db5620f8df"
     },
     {
       "extension_id": "imkepemaflommlonnppjobgdpokbfmoj",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-16",
       "crx_sha256": "bcf17f91b86728de5fd2a52804f856269dd956fbfa8ed69b8269fee76ecc04ee"
     },
@@ -1588,7 +1588,7 @@
     {
       "extension_id": "gkbfokaephnaajnmpgiieidpfieamggb",
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_reported": "2026-06-15",
       "date_added": "2026-06-16",
       "crx_sha256": "b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed"
     },
@@ -3520,7 +3520,7 @@
     {
       "extension_id": "cgnbfcoeopaehocfdnkkjecibafichje",
       "source_url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "date_reported": "Mon, 10 Aug 2026 13:08:23 +0530",
+      "date_reported": "2026-08-10",
       "date_added": "2026-08-10",
       "crx_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
@@ -6897,6 +6897,13 @@
       "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "744eafa06e74235eee091aa827b88b18d953696198af251baf731af1def0dfd4"
+    },
+    {
+      "extension_id": "pnhhdhhcadcjfckjhpmjneldiegbojfb",
+      "source_url": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed",
+      "date_reported": "2026-09-11",
+      "date_added": "2026-09-12",
+      "crx_sha256": "eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda"
     }
   ]
 }
