@@ -1,5 +1,5 @@
 # Malicious Browser Extensions
-![Malicious Extensions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GherardoFiori/MaliciousBrowserExtensions/main/count.json&cacheSeconds=60)
+![Malicious Extensions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGherardoFiori%2FMaliciousBrowserExtensions%2Fmain%2Fcount.json%3Fv%3D988&cacheSeconds=300)
 
 <h3>Join the <a href="https://discord.gg/...">Discord</a></h3>
 <h3>Try our <a href="https://chromewebstore.google.com/...">Extension</a></h3>
