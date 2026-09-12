@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-09-12T14:56:02.124Z",
-  "total_samples": 988,
+  "last_updated": "2026-09-12T15:20:08.441Z",
+  "total_samples": 993,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -5958,7 +5958,7 @@
       "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
       "date_reported": "2026-06-15",
       "date_added": "2026-06-16",
-      "crx_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "crx_sha256": "9ba9b463afa8883b43cec46d622f4c6ff33300af784d3ecf64a6f1b36c63c643"
     },
     {
       "extension_id": "ljblneelmbapgfcbmphbnnkdofmnldjp",
@@ -6904,6 +6904,41 @@
       "date_reported": "2026-09-11",
       "date_added": "2026-09-12",
       "crx_sha256": "eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda"
+    },
+    {
+      "extension_id": "ngnfdhfeccjahkpielcjbjebipckhoii",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "date_reported": "2026-09-12",
+      "date_added": "2026-09-12",
+      "crx_sha256": "3a11fb62e969687559eac24b9264ec97359cdfc0d24518d80e643e241d027296"
+    },
+    {
+      "extension_id": "obdcmkbifgehdkjacmndbapoiiabnjlo",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "date_reported": "2026-09-12",
+      "date_added": "2026-09-12",
+      "crx_sha256": "2f93df70f5a1f92f328678427cbc6015dea8366ddad25537162fb5b5d6c09925"
+    },
+    {
+      "extension_id": "ooepolkedgpkhojiihdjoajnjohciajl",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "date_reported": "2026-09-12",
+      "date_added": "2026-09-12",
+      "crx_sha256": "53547495fe1ba0a7b8bf5cad118bc1f9588d70607b5a633fe17f07443186abc2"
+    },
+    {
+      "extension_id": "phcfjgnhnpfjhpghiacilpocpcdcgljm",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "date_reported": "2026-09-12",
+      "date_added": "2026-09-12",
+      "crx_sha256": "1aa148274b65a9f10a89b9d1ddebf9b49168e214e6980c0a39d3942a2cb73b1f"
+    },
+    {
+      "extension_id": "pnlahghdcgkecfkeeiekinacgmbdcabk",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "date_reported": "2026-09-12",
+      "date_added": "2026-09-12",
+      "crx_sha256": "4a78feedc08844ea260d947ca0c5fdbdeddd425d7ba9ade88c28c594478a0f20"
     }
   ]
 }
