@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--355d6192-13c1-5aae-ba93-0b8a305076ec",
+  "id": "bundle--62db7830-7181-5b9c-9811-1731e5636c9f",
   "objects": [
     {
       "type": "identity",
@@ -18967,6 +18967,33 @@
         {
           "source_name": "MaliciousBrowserExtensions source",
           "url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e7eef921-753f-5621-ad5c-4bfa1bcb56d9",
+      "created_by_ref": "identity--1c878be9-fbaa-53e4-84c6-a5ead4b83013",
+      "created": "2026-10-15T00:00:00.000Z",
+      "modified": "2026-10-15T00:00:00.000Z",
+      "name": "Malicious Chrome extension cplfpogibkkmmficaepjiemimenignoh",
+      "description": "SHA-256 indicator associated with malicious Chrome extension ID(s): cplfpogibkkmmficaepjiemimenignoh",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' = 'be9bb9fa479ec3076dbf8118dfcc2099086136ac2c36e7be82a30248f060f920']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-10-15T00:00:00.000Z",
+      "external_references": [
+        {
+          "source_name": "chrome-extension-id",
+          "external_id": "cplfpogibkkmmficaepjiemimenignoh"
+        },
+        {
+          "source_name": "MaliciousBrowserExtensions source",
+          "url": "https://www.inde.nz/blog/malicious-browser-extensions?"
         }
       ]
     },
