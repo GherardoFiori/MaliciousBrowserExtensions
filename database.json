@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-09-12T15:20:08.441Z",
-  "total_samples": 993,
+  "last_updated": "2026-10-15T14:24:21.687Z",
+  "total_samples": 994,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -6939,6 +6939,13 @@
       "date_reported": "2026-09-12",
       "date_added": "2026-09-12",
       "crx_sha256": "4a78feedc08844ea260d947ca0c5fdbdeddd425d7ba9ade88c28c594478a0f20"
+    },
+    {
+      "extension_id": "cplfpogibkkmmficaepjiemimenignoh",
+      "source_url": "https://www.inde.nz/blog/malicious-browser-extensions?",
+      "date_reported": "2026-10-15",
+      "date_added": "2026-10-15",
+      "crx_sha256": "be9bb9fa479ec3076dbf8118dfcc2099086136ac2c36e7be82a30248f060f920"
     }
   ]
 }
